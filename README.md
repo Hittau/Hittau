@@ -6,3 +6,4 @@
 - 💬 You can ask me anything you want (telegram is attached from below)
 - 📫 How to reach me: You can texting me in telegram - https://t.me/Hittttau
 - ⚡ I'm will be glad to cooperate
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
