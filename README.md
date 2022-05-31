@@ -1,4 +1,3 @@
-![chrome_CGVSuTpzLu](https://user-images.githubusercontent.com/74827598/171298840-fb51d191-e5aa-4011-954a-4a3ee15fe205.png)
 ![chrome_1fOhR2Y4Ob](https://user-images.githubusercontent.com/74827598/171300581-35d33187-1b7d-430c-b39d-593f7f4de064.png)
 
 
