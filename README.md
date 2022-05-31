@@ -1,4 +1,3 @@
-👋Hi there!
 ![chrome_CGVSuTpzLu](https://user-images.githubusercontent.com/74827598/171298840-fb51d191-e5aa-4011-954a-4a3ee15fe205.png)
 
 
